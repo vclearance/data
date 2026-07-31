@@ -12,6 +12,12 @@
     "virtual": true
   },
   {
+    "icao": "CLR",
+    "name": "vClearance",
+    "callsign": "clearance",
+    "virtual": true
+  },
+  {
     "icao": "THY",
     "name": "vTHY",
     "callsign": "Turkish",
