@@ -12,12 +12,6 @@
     "virtual": true
   },
   {
-    "icao": "CLR",
-    "name": "vClearance",
-    "callsign": "clearance",
-    "virtual": true
-  },
-  {
     "icao": "THY",
     "name": "vTHY",
     "callsign": "Turkish",
@@ -58,6 +52,12 @@
     "name": "S7 AIRLINES",
     "callsign": "SIBERIAN AIRLINES",
     "virtual": false
+  },
+  {
+    "icao": "CLR",
+    "name": "vClearance",
+    "callsign": "clearance",
+    "virtual": true
   },
   {
     "icao": "BRU",
